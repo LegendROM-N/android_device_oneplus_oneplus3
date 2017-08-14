@@ -31,6 +31,3 @@ PRODUCT_BRAND := OnePlus
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 TARGET_VENDOR := oneplus
-
-# Unofficial build ID
-TARGET_UNOFFICIAL_BUILD_ID := Sultan
