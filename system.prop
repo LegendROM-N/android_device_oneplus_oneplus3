@@ -135,5 +135,5 @@ persist.timed.enable=true
 wifi.interface=wlan0
 
 # LegendROM
-ro.legendrom.version=18.0
+ro.legendrom.version=19.0
 

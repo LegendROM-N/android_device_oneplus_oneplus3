@@ -329,7 +329,7 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 # OTA
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.ota.romname=LegendROM \
-    persist.ota.version=20170814 \
+    persist.ota.version=20170927 \
     persist.ota.manifest=https://raw.githubusercontent.com/LegendROM-N/android_extras_ota/cm-14.1/oneplus3.xml
 
 PRODUCT_COPY_FILES += \
